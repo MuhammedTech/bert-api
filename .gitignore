@@ -136,3 +136,9 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# custom
+.idea/
+.idea
+README.rst
+.README.rst
