@@ -1,0 +1,6 @@
+bert-api
+#deactive
+#poetry env use python3.6
+#poetry install
+#poetry shell
+#poetry run script

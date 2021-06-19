@@ -142,3 +142,5 @@ cython_debug/
 .idea
 README.rst
 .README.rst
+.DS_Store
+script

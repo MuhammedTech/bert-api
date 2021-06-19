@@ -8,4 +8,4 @@ with open('bert_api/data/model_config.json') as f:
 
 
 def main():
-    start_model_server(data)
+    start_model_server(data, port=5001)
