@@ -1,4 +1,3 @@
-from deeppavlov import build_model
 from deeppavlov.utils.server import start_model_server
 
 import json

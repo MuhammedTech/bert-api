@@ -144,4 +144,7 @@ README.rst
 .README.rst
 .DS_Store
 script
-.DS_Store
+.script
+/script
+
+
