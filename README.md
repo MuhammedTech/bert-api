@@ -9,9 +9,9 @@ Install poetry. Run script and follow the script instructions
 
 Clone repository
 
-`git clone git@github.com:MuhammedTech/bert-api.git
+`git clone git@github.com:MuhammedTech/bert-api.git`
 
-cd bert-api`
+`cd bert-api`
 
 
 Install dependencies. Poetry will create venv for you
